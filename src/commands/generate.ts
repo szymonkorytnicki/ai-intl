@@ -66,6 +66,6 @@ export default command(
     await new Promise((resolve) => setTimeout(resolve, 1000));
     s.stop();
 
-    outro("It is all setted, enjoy your auto translations :)");
+    outro("It is all set, enjoy your auto translations :)");
   }
 );
